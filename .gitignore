@@ -1,0 +1,7 @@
+legacyoflegacy.iml
+.gradle/
+.idea/
+desktop/build/
+core/build/tmp/jar/MANIFEST.MF
+core/build/libs/core-1.0.jar
+core/build/classes/java/main/pl/lagacyoflagacy/MainGdxGame.class
