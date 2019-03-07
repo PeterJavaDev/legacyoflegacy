@@ -10,9 +10,6 @@ public abstract class AbsrtactCharacter {
     protected int endurance = 1;
     protected int perceptivity = 1;
     protected int wisdom = 1;
-
-
-
     protected Container inventory = new Container();
 
     public void attack(AbsrtactCharacter character) {
